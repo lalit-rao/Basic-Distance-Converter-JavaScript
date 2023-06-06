@@ -16,7 +16,7 @@
         }
         else {
             // display error
-            answer.innerHTML = '<h2>Please provide a number</h2>'
+            answer.innerHTML = '<h2>Please provide a number!</h2>'
         }
     });
 })()
